@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { TextComponent } from './amita/text/text.component';
+
 
 const routes: Routes = [
   {
